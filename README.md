@@ -30,7 +30,6 @@ This curated list features enterprise **Commercial SaaS / Hosted Platforms** ran
 * [⚡ Industrial Control, PLC & Communication Layer](#-industrial-control-plc--communication-layer)
 * [📊 Data, Event Streaming, Observability & Workflow](#-data-event-streaming-observability--workflow)
 * [🏗️ Recommended Open-Source WCS Architecture Stack](#️-recommended-open-source-wcs-architecture-stack)
-* [⭐ Star History](#-star-history)
 * [🤝 How to Contribute](#-how-to-contribute)
 * [⚖️ Disclaimer](#️-disclaimer)
 
